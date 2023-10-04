@@ -1,15 +1,14 @@
-##  Hello, I'm janine 👋
+##  Hello, I'm janine Alves 👋
 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: contact me by email Janinealves.s@outlook.com
+- 📫 How to reach me: contact me by email Janinealves.sil@gmail.com
 - 😄 Pronouns: she/her
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="janine-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="janine-angular" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="janine-HTML" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="janine-CSS" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src= "https://www.svgrepo.com/show/452091/python.svg">
+  <img align="center" alt="sql" height="30" width="40" src= "[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg)">
 </div>
   
   ##
