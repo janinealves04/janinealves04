@@ -11,7 +11,7 @@
 </div>
 
 
-## 📚| Learning:
+## | Learning:
 **No momento, estou me dedicando ao estudo de dados e suas estruturas, frontend com CSS, React e Js. As principais tecnologias em aprendizado são:**
 
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
      <img align="center" alt="Janine-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
 
 
-## 👩‍💻| Principais skills:
+## | Principais skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Janine-CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Janine-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +27,7 @@
   <img align="center" alt="Janine-MySQL"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Janine-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
 
-## 🌹| Mais sobre mim:
+## | Mais sobre mim:
   - 🥰 Tenho 21 anos e vivo em Parnamirim/RN, Brasil; </br>
   - 🎶 Meu passatempo favorito é ouvir música e ler um bom livro acompanhado de um cafézinho ☕. </br>
 
