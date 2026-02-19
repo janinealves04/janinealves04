@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Janine!;Seja+bem+-+vindo(a)!🌷)](https://git.io/typing-svg)
 
-**Olá, tudo bem? Me chamo Janine e estou à 4 anos estudando programação e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
-
+**Olá, tudo bem? Me chamo Janine, sou estudante de programação e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
+<!-- 
 <div center="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=janinealves04&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Janine Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinealves04&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
-
+-->
 
 ## | Learning:
 **No momento, estou me dedicando ao estudo de dados e suas estruturas, frontend com CSS, React e Js. As principais tecnologias em aprendizado são:**
