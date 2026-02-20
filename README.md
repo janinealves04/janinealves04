@@ -5,6 +5,14 @@
 
 **Olá, tudo bem? Me chamo Janine, sou estudante de programação, me dedico a criar interfaces pensadas na experiência do nosso usuário e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/36a3eb58-fcd5-4196-80ee-0e86d49be010"
+    width="200"
+    height="200"
+    alt="octocat-1771589115163"
+  />
+</p>
 
 <!--
 <div center="center">  
